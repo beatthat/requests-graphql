@@ -1,7 +1,7 @@
 {
   "name": "requests-graphql",
   "scope": "beatthat",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Helpful for making graphql requests from Unity3D.",
   "main": "index.js",
   "scripts": {
